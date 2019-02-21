@@ -46,3 +46,4 @@ php artisan serve
 - NPM scripts are duplicated for `yarn` usage
 - Compile assets using `dev` on `develop` branch, `prod` on `master` branch
 - Demo login `Email : superadministrator@app.com` `Password: password`
+- API endpoint for get list ingredients `localhost:8000/api/ingredient-list`
